@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Language Chatbot
 
 A real-time chatbot capable of understanding and responding in multiple languages using NLP and FastAPI.
@@ -36,3 +37,7 @@ docker run -p 8000:8000 chatbot
 - `src/nlp`: Core NLP components (Intent, Retrieval, Translation).
 - `src/api.py`: FastAPI backend.
 - `static`: Frontend assets.
+=======
+# Multi-Language-Chatbot
+ml project
+>>>>>>> f805bd3546c3ad1e54bde8af938587e1395ced17
