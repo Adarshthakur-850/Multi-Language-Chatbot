@@ -5,8 +5,6 @@ An intelligent **AI-powered multilingual chatbot** designed to break language ba
 ---
 <img width="921" height="304" alt="Screenshot 2026-02-06 174504" src="https://github.com/user-attachments/assets/97e3e381-93af-4112-adbe-a20960c1032b" />
 
-<img width="750" height="746" alt="Screenshot 2026-02-06 211453" src="https://github.com/user-attachments/assets/6bfb0b4e-a71f-4227-ac57-367bc037ff7d" />
-
 <img width="893" height="544" alt="Screenshot 2026-02-06 201147" src="https://github.com/user-attachments/assets/2a1df914-1c7d-42f9-bf2b-85c2a0563fab" />
 
 <img width="895" height="580" alt="Screenshot 2026-02-06 211504" src="https://github.com/user-attachments/assets/dcfedc57-c18d-422e-9457-e52e2849a291" />
@@ -26,6 +24,9 @@ This project is particularly useful for:
 * AI assistants for diverse users
 
 Multilingual chatbots help improve accessibility and user experience by allowing interaction in native languages, which is a key requirement in modern AI systems. ([GitHub][1])
+
+<img width="750" height="746" alt="Screenshot 2026-02-06 211453" src="https://github.com/user-attachments/assets/a78a11c7-969b-49ba-a3fd-9689a252ad4c" />
+
 
 ---
 
