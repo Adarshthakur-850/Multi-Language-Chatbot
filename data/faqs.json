@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "intent": "faq_reset_password",
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, go to Settings > Security > Reset Password and follow the instructions sent to your email."
+    },
+    {
+        "id": 2,
+        "intent": "faq_pricing",
+        "question": "What are your pricing plans?",
+        "answer": "We offer three tiers: Basic ($10/mo), Pro ($30/mo), and Enterprise (Custom). Visit our pricing page for more details."
+    },
+    {
+        "id": 3,
+        "intent": "faq_support",
+        "question": "How can I contact support?",
+        "answer": "You can reach our support team via email at support@example.com or use the live chat feature 24/7."
+    },
+    {
+        "id": 4,
+        "intent": "faq_refund",
+        "question": "What is the refund policy?",
+        "answer": "We offer a 30-day money-back guarantee for all our plans if you are not satisfied with the service."
+    },
+    {
+        "id": 5,
+        "intent": "greeting",
+        "question": "Hello",
+        "answer": "Hello! How can I help you today?"
+    }
+]
